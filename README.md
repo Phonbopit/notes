@@ -1,4 +1,4 @@
-# Learn In Public
+# Notes
 
 📚 Documenting my learning journey | 💻 Dev diary | 🌴 Digital Garden
 ---
