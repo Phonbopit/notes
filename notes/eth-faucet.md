@@ -1,3 +1,4 @@
+- https://faucet.rinkeby.io/
 - https://faucet.paradigm.xyz/
 - https://ethdrop.dev/
 - https://faucets.chain.link/
