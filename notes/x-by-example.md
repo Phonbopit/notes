@@ -8,3 +8,6 @@ X by example
 - [Go by Example](https://gobyexample.com/)
 - [Haskell by Example](https://lotz84.github.io/haskellbyexample/)
 - [Dart by Example](https://www.jpryan.me/dartbyexample/)
+- [Python by Example](https://www.learnbyexample.org/python/)
+- [R by Example](https://www.learnbyexample.org/r/)
+- [SQL by Example](https://www.learnbyexample.org/sql/)
