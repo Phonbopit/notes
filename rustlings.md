@@ -17,6 +17,11 @@ rustlings list
 rustc --explain <CODE>
 ```
 
+## Table of Content
+
+- [1. Variables](#variables)
+- [2. Functions](#functions)
+
 ## Variables
 
 - https://doc.rust-lang.org/stable/book/ch03-01-variables-and-mutability.html
