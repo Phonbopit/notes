@@ -71,3 +71,54 @@ fn main() {
 #### `variables6.rs`
 
 - `const` must declare a type
+
+## Functions
+
+- use `snake_case` for convensional style for function and variable names.
+- have to declare the type of each parameter in function signatures.
+- statement does not return a value, function definitions are also statements.
+- Statements are instructions that perform some action and do not return a value. Expressions evaluate to a resulting value
+- Calling a function is an expression. Calling a macro is an expression
+- Expressions do not include ending semicolons
+- If you add a semicolon to the end of an expression, you turn it into a statement.
+- return value must declare a type after an arrow (`->`)
+ 
+#### `functions1.rs`
+
+- `call_me` doesn't exist. just define a function with empty body.
+
+#### `function2.rs`
+
+- `num` missing a type annotaion.
+- `E4025` - an unresolved name was used. Hint: name misspelled?
+
+It's nice describe when try to make a compile error : `fn call_me(num) {}`
+
+```bash
+help: if this is a `self` type, give it a parameter name
+   |
+10 | fn call_me(self: num) {
+   |            +++++
+help: if this is a parameter name, give it a type
+   |
+10 | fn call_me(num: TypeName) {
+   |               ++++++++++
+help: if this is a type, explicitly ignore the parameter name
+   |
+10 | fn call_me(_: num) {
+```
+
+#### `function3.rs`
+
+- just fixed a calling function.
+
+#### `function4.rs`
+
+- learn about if/else condition
+- see compile error message. Hint -> `^ expected type`
+
+#### `function5.rs`
+
+- Hint: semicolon?
+- `num * num;` is not return a value
+- just remove `;` to `num * num` or add return keyword `return num * num;`
