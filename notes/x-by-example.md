@@ -11,3 +11,4 @@ X by example
 - [Python by Example](https://www.learnbyexample.org/python/)
 - [R by Example](https://www.learnbyexample.org/r/)
 - [SQL by Example](https://www.learnbyexample.org/sql/)
+- [Erlang by Example](https://erlangbyexample.org/)
